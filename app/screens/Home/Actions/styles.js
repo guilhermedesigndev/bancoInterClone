@@ -42,6 +42,7 @@ export const ActionsLabel = styled.Text`
   color: ${theme.colors.black};
   font-size: ${theme.sizes.base}px;
   font-family: ${theme.fonts.light};
+  text-align: center;
 `;
 
 export const ExpandActionsContainer = styled.View`

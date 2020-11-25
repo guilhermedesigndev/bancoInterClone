@@ -47,6 +47,6 @@ export const PhotoUser = styled.Image.attrs({
   resizeMode: 'cover',
   source: {
     uri:
-      'https://i.pinimg.com/originals/18/e3/82/18e382668b4f22014935ad9dfbd07436.jpg',
+      'https://scontent.fjdo1-1.fna.fbcdn.net/v/t1.0-9/31460866_1664325563686677_3995482374660947968_n.jpg?_nc_cat=103&ccb=2&_nc_sid=174925&_nc_ohc=asmwog8B5CgAX_rwlMg&_nc_ht=scontent.fjdo1-1.fna&oh=0c376994db935e0adebbdc6cf00e7c93&oe=5FE3A4DF',
   },
 })``;
